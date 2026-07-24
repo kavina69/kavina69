@@ -98,7 +98,7 @@
 ---
 ##🌐 Connect With Me</h2>
 
-<p align="center">
+<p>
   
 <a href="https://github.com/kavina69" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" width="45" />
