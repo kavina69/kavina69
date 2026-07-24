@@ -98,12 +98,26 @@
 ---
 
 ## 🌐 Connect With Me
-<a href="https://raw.githubusercontent.com/kavina69/kavina69/main/Resume.pdf" download>
-  <img src="https://img.icons8.com/color/96/download--v1.png" alt="Download Resume" width="30"/>
+<p>
+
+<a href="https://github.com/kavina69" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/100/FFFFFF/github.png" width="30"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kavina-s" target="_blank">
+  <img src="https://img.icons8.com/color/96/linkedin.png" width="30"/>
+</a>
+
+<a href="mailto:kavinaselladurai@gmail.com">
+  <img src="https://img.icons8.com/color/96/gmail-new.png" width="30"/>
 </a>
 
 
----
+<a href="https://raw.githubusercontent.com/kavina69/kavina69/main/Resume.pdf" download>
+  <img src="https://img.icons8.com/color/96/download--v1.png" alt="Download Resume" width="30"/>
+</a>
+</p>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kavina69&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
