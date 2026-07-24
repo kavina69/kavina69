@@ -1,16 +1,128 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Kavina S</h1>
 
-<!--
-**kavina69/kavina69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">AI & Data Science Student | Java Developer | AI Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Java+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Future+Software+Engineer" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+🎓 B.Tech Artificial Intelligence & Data Science
+
+🏫 V.S.B Engineering College, Karur
+
+💻 Passionate about Java, AI, Machine Learning & Web Development
+
+🌱 Currently learning DSA, Full Stack Development and Cloud Technologies
+
+🚀 Love building AI-powered real-world software projects
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,flask,mysql,git,github,vscode" />
+</p>
+
+---
+
+## 📂 Projects
+
+### 🏏 AI Cricket Performance Prediction
+- Built an IPL player performance prediction system using Machine Learning.
+- Developed an interactive Streamlit dashboard.
+- Applied Random Forest, feature engineering, and data preprocessing.
+
+### 🔋 Smart Charging System
+- AI & IoT based battery monitoring system.
+- Prevents overcharging and improves battery lifespan.
+- Optimizes energy consumption using intelligent charging.
+
+---
+
+## 📜 Certifications
+
+🏅 Programming in Java – NPTEL (IIT Kharagpur)
+
+🏅 Introduction to IoT and Digital Transformation – Cisco
+
+🏅 Salesforce Administrator Explorer – FutureSkills Prime
+
+🏅 Introducing SAP Business Data Cloud – SAP Learning
+
+---
+
+## 💼 Internships
+
+💻 Web Development Intern – Let's Gametech
+
+🤖 AI Internship – Infosys Springboard
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=kavina69&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=kavina69&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavina69&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=kavina69&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/kavina69/kavina69/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/kavina69" target="_blank">
+<img src="https://img.icons8.com/ios-filled/100/FFFFFF/github.png" width="30"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+<img src="https://img.icons8.com/color/96/linkedin.png" width="30"/>
+</a>
+
+<a href="mailto:kavinaselladurai@gmail.com">
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="30"/>
+</a>
+
+<a href="YOUR_RESUME_LINK">
+<img src="https://img.icons8.com/color/96/resume.png" width="30"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kavina69&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
+</p>
+
+<h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
