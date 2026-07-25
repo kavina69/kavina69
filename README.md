@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kavina S</h1>
+<h1 align="center">Hi 👋, I'm </h1>
 
 <h3 align="center">AI & Data Science Student | Java Developer | AI Enthusiast</h3>
 
@@ -84,44 +84,39 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kavina69&theme=radical&no-frame=true&no-bg=true&margin-w=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=kavina69&theme=algolia&no-frame=true&no-bg=true" alt="GitHub Trophies"/>
 </p>
-
 ---
 
 ## 🐍 Contribution Graph
-
-
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavina69&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&radius=16" width="100%" />
 </p>
 
 ---
-##🌐 Connect With Me</h2>
+<h2 align="left">🌐 Connect With Me</h2>
 
-<p>
-  
-<a href="https://github.com/kavina69" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="45" />
-</a>
+<p align="center">
+  <a href="https://github.com/kavina69" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/github.png" alt="GitHub" width="30"/>
+  </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
-</a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+    <img src="https://img.icons8.com/color/96/linkedin.png" alt="LinkedIn" width="30"/>
+  </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="45" />
-</a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.icons8.com/color/96/gmail-new.png" alt="Gmail" width="30"/>
+  </a>
 
-<a href="https://drive.google.com/file/d/YOUR_RESUME_ID/view" target="_blank">
-  <img src="https://img.icons8.com/fluency/96/resume.png" width="45"/>
-</a>
+  <a href="https://github.com/kavina69/kavina69/raw/main/Resume.pdf" target="_blank">
+    <img src="https://img.icons8.com/color/96/resume.png" alt="Resume" width="30"/>
+  </a>
 
-<a href="https://raw.githubusercontent.com/kavina69/kavina69/main/Resume.pdf" download>
-  <img src="https://img.icons8.com/fluency/96/download.png" width="45"/>
-</a>
-
+  <a href="https://github.com/kavina69/kavina69/raw/main/Resume.pdf" download>
+    <img src="https://img.icons8.com/color/96/download--v1.png" alt="Download Resume" width="30"/>
+  </a>
 </p>
 
 <p align="center">
