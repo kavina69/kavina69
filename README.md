@@ -91,10 +91,7 @@
 
 ## 🐍 Contribution Graph
 
-<h2 align="left">
-  <img src="https://img.icons8.com/fluency/48/combo-chart.png" width="35"/>
-  Contribution Graph
-</h2>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kavina69&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&radius=16" width="100%" />
