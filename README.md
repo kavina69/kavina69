@@ -110,9 +110,6 @@
     <img src="https://img.icons8.com/color/96/gmail-new.png" alt="Gmail" width="30"/>
   </a>
 
-  <a href="https://github.com/kavina69/kavina69/raw/main/Resume.pdf" target="_blank">
-    <img src="https://img.icons8.com/color/96/resume.png" alt="Resume" width="30"/>
-  </a>
 
   <a href="https://github.com/kavina69/kavina69/raw/main/Resume.pdf" download>
     <img src="https://img.icons8.com/color/96/download--v1.png" alt="Download Resume" width="30"/>
@@ -124,3 +121,5 @@
 </p>
 
 <h3 align="center">⭐ Thanks for visiting my profile ⭐</h3>
+
+
